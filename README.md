@@ -15,6 +15,7 @@ In its current iteration in 2026, I have upgraded it into an AI-powered e-commer
 
 # Extensibility & Future Improvements
 =================================================
+
 This system is designed with modular architecture and can be extended easily:
 
 - Integration of real LLMs (GPT / Claude) for advanced AI insights
