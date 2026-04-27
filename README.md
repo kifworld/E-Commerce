@@ -13,9 +13,8 @@ In its current iteration in 2026, I have upgraded it into an AI-powered e-commer
 (2) Intelligent order and workflow automation with structured API reasoning and prompt-based decision flows
 (3) Extensible foundation for RAG-based knowledge systems and future autonomous agent integration
 
-===========================
 # Extensibility & Future Improvements
-
+=================================================
 This system is designed with modular architecture and can be extended easily:
 
 - Integration of real LLMs (GPT / Claude) for advanced AI insights
