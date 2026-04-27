@@ -14,7 +14,6 @@ In its current iteration in 2026, I have upgraded it into an AI-powered e-commer
 (3) Extensible foundation for RAG-based knowledge systems and future autonomous agent integration
 
 # Extensibility & Future Improvements
-=================================================
 
 This system is designed with modular architecture and can be extended easily:
 
