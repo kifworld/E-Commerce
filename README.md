@@ -6,3 +6,9 @@ This system was originally developed in 2020 as a full-stack e-commerce and rest
 2. Order processing,
 3. FAQ support, and 
 4. A ticket-based order tracking system.
+
+In its current iteration, I have upgraded it into an AI-powered e-commerce system by integrating modern AI engineering patterns, including:
+
+(1) AI-assisted backend architecture using FastAPI + LLM-driven logic design (GPT-4o / Claude 3.5 Sonnet)
+(2) Intelligent order and workflow automation with structured API reasoning and prompt-based decision flows
+(3) Extensible foundation for RAG-based knowledge systems and future autonomous agent integration
